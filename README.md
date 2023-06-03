@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vaish101
+- 👋 Hi, I’m Vaishnavi
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning computer science and engineering 
 - 💞️ I’m looking to collaborate on any Data science projects to build my resume
